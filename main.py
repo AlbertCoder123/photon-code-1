@@ -17,8 +17,7 @@ num_interactions = 0
 
 energies = []
 interaction_type = []
-#hi
-#jon was here
+
 photon_energy = E_initial 
 
 N = 10
